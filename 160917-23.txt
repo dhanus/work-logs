@@ -1,0 +1,38 @@
+Sat 9/17/16 
+============
+6:30-7:30 WiML Emails
+
+Sun 9/18/16
+============
+8-10:15pm Got all the the vars for TFIDF w Dictionaries
+
+Mon 9/19/16 
+============
+8:30-10am Put vars together to get TFIDF for each word/doc
+10-11  While waiting for TFIDF to run, began moving things into matrices  
+11-11:30 ML Tea 
+11:30-12:15 debugging 
+12:15-1pm Lunch w Victorya 
+1-1:30 Get wifi to work + answer emails 
+1:30-4pm Debugging fixed TFIDF 
+7-8pm WiML emails 
+
+Tues 9/20/16 
+=============
+9-10am Area Chairing for WiML 
+11:30-12:30 lunch 
+12:30-3:30pm doctor/dentist appointments 
+3:30-4:45pm Answer WiML emails/ Area chariing for WiML 
+5:45-6:45pm Answer WiML emails/frequent distractions :( 
+
+Weds 9/21/16 
+============
+10am (Late start, skinned knee) emails 
+11-11:30am MLTea 
+11:30-12pm read for DLRG 
+12-2pm DLRG 
+2-5pm Work on #AIWTB talk - submit talk title/abstract
+
+Thurs 9/22/16 
+=============
+
